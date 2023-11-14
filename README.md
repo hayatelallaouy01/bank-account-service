@@ -27,3 +27,5 @@
 
 ![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/7ffb28cf-bbe5-4f3d-bed7-0720f22133ae)
 
+### postman
+![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/5d696007-cce0-496d-a5ce-7547b7b3562d)
