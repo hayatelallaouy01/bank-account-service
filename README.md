@@ -20,3 +20,10 @@
 ### localhost:8081/api/bankAccounts
 
 ![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/0a14f555-e8cf-4bb4-a2b9-22f63e557035)
+
+## Micro service REST Connector
+---------------------------------
+### localhost:8081/api/bankAccounts/202e3673-a30a-4958-958b-378e1192510f
+
+![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/7ffb28cf-bbe5-4f3d-bed7-0720f22133ae)
+
