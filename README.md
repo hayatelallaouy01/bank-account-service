@@ -16,3 +16,7 @@
 ![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/b2f74fed-983e-4593-801f-b8b4732b8a53)
 
 ![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/5998d3ed-7ec7-4b7c-83dc-5569325ea063)
+
+### localhost:8081/api/bankAccounts
+
+![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/0a14f555-e8cf-4bb4-a2b9-22f63e557035)
