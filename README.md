@@ -29,3 +29,8 @@
 
 ### postman
 ![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/5d696007-cce0-496d-a5ce-7547b7b3562d)
+
+### localhost:8081/bankAccounts/search/findByType?type=CURENT_ACCOUNT
+![image](https://github.com/hayatelallaouy01/bank-account-service/assets/123452386/b5d3595a-0f99-4f36-8473-0a963f56d3e2)
+
+
